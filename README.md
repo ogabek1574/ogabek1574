@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ogabekqod1rov
+- 👋 Hi, I’m Ogabek Qodirov 
 - 👀 I’m interested in learn programming languages
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on kind person
